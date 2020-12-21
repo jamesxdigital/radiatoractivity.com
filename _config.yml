@@ -25,7 +25,7 @@ formcarry: https://formcarry.com/s/Comb4nguIb
 disqus: radiatoractivity-com
 
 # MailChimp settings
-mailchimp_action: https://radiatoractivity.us7.list-manage.com/subscribe/post?u=8acb9fff66150fc2c2faa329d&amp;id=743432bb4a
+mailchimp_action: https://radiatoractivity.us7.list-manage.com/subscribe/post-json?u=8acb9fff66150fc2c2faa329d&amp;id=743432bb4a
 mailchimp_input: b_8acb9fff66150fc2c2faa329d_743432bb4a
 
 # Author settings
