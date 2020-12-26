@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Header
-//---------------------------------------------- 
+//----------------------------------------------
 .header {
   @extend %letter-spacing;
   @extend %box-shadow;
@@ -13,14 +13,14 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: $header-height;
+  height: 4em;
   width: 100%;
   padding: {
     right: 1em;
     left: 1em;
   }
 
-  background-color: $color-white;
+  background-color: $color-pink;
   border-bottom: $border;
 
   @media (min-width: $mq-small) {

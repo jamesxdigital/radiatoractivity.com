@@ -55,7 +55,7 @@ Artisan cray pickled whatever
       padding: 0.25em 0.5em;
 
       color: $color-black;
-      background: $color-lightgrey;
+      background: $color-pink;
     }
 
 
