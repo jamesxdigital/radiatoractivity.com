@@ -5,10 +5,6 @@ date: 2020-12-21
 description: "Style guide"
 image: /assets/images/placeholder-9.jpg
 author: James Milton
-tags:
-  - Dummy Text
-  - Moon Drinking
-  - Kale
 ---
 
 

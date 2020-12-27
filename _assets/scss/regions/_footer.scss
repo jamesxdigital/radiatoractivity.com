@@ -1,9 +1,9 @@
 //----------------------------------------------
 // Footer
-//---------------------------------------------- 
+//----------------------------------------------
 .footer {
   color: $color-white;
-  background-color: $color-black;
+  background-color: $color-grey;
   border-top: $border;
 
   &__container {
@@ -27,13 +27,13 @@
 
   &__link {
     font-size: $font-small;
-    color: $color-white;
+    color: $color-peach;
     transition: color 200ms ease-in-out;
 
     &:hover,
     &:active,
     &:focus {
-      color: $color-grey;
+      color: $color-alpha;
     }
   }
 
@@ -47,14 +47,14 @@
 
     a {
       font-size: 1.25em;
-      color: $color-white;
+      color: $color-peach;
     }
   }
 }
 
 //----------------------------------------------
 // Flex based sticky footer
-//---------------------------------------------- 
+//----------------------------------------------
 // body {
 //   display: flex;
 //   flex-direction: column;
