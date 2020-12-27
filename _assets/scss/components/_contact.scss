@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Contact
-//---------------------------------------------- 
+//----------------------------------------------
 .contact {
   @extend %flex-center;
 
@@ -17,7 +17,7 @@
   }
 
   visibility: hidden;
-  background-color: rgba($color-black, 0.9);
+  background-color: rgba($color-pink, 0.9);
   opacity: 0;
   transition: opacity 600ms ease-in-out;
 
@@ -41,7 +41,7 @@
     width: 100%;
     max-width: $max-width--lg;
 
-    background-color: $color-white;
+    background-color: $color-peach;
 
     @media (min-width: $mq-small) {
       display: flex;

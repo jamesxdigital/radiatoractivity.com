@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to RA"
+title: "Style Guide"
 date: 2020-12-21
-description: "Who are wel?"
+description: "Style Guide"
 image: /assets/images/placeholder-9.jpg
 author: James and Katie
 ---
