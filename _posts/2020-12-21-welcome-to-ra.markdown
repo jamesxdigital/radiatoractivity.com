@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to RA"
 date: 2020-12-21
 description: "Who are wel?"
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/RA KV gif.gif
 author: James and Katie
 ---
 
