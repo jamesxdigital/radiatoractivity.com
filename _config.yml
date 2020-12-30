@@ -30,7 +30,7 @@ mailchimp_input: b_8acb9fff66150fc2c2faa329d_743432bb4a
 # Author settings
 author:
   - name: James and Katie
-    bio: James and Katie (MrM and KvK) are two dope dudes.
+    bio:
     url: https://radiatoractivity.com
 
 # Pagination settings
