@@ -1,66 +1,16 @@
 ---
 layout: post
-title: "Welcome to RA"
+title: Welcome to Radiator Activity
 date: 2020-12-21
-description: "Who are wel?"
-image: /assets/images/RA KV gif.gif
+description: Who are wel?
+image: "/assets/images/RA KV gif.gif"
 author: James and Katie
+
 ---
+Our Radiator Activity venture started back in 2018, in Leeds whilst studying at University, with a simple question: Are you a Radiator or a Drain?
 
+Since this fateful question, we have made a conscious effort to Radiate positivity in everything we do. We have been contemplating how best to share and promote positivity through every avenue. It is from this that we have concluded that we will be using this platform to make you smile, make you think, and provoke you to be a Radiator too!
 
-* * *
+With the power of the digital world, we will be promoting brands, people, activities and our own learnings to get you active and on your way to being a Radiator.
 
-Artisan cray pickled whatever
-=============================
-
-Artisan cray pickled whatever
------------------------------
-
-### Artisan cray pickled whatever
-
-#### Artisan cray pickled whatever
-
-##### Artisan cray pickled whatever
-
-###### Artisan cray pickled whatever
-
-* * *
-
-1.  Wes anderson cliche cosby sweater brooklyn vegan organic.
-2.  Synth ennui semiotics mustache pickled.
-3.  Food truck freegan vinyl thundercats, post-ironic ennui wes anderson banh mi four loko synth photo booth authentic 3 wolf moon.
-
-* * *
-
-*   Wes anderson cliche cosby sweater brooklyn vegan organic.
-*   Synth ennui semiotics mustache pickled.
-*   Food truck freegan vinyl thundercats, post-ironic ennui wes anderson banh mi four loko synth photo booth authentic 3 wolf moon.
-
-* * *
-
-<blockquote>
-  <p>“Bicycle rights mustache artisan, keytar lo-fi sustainable fap stumptown vegan salvia freegan four loko terry richardson.”</p>
-  <cite>Wolf Moon Cred</cite>
-</blockquote>
-
-
-* * *
-
-
-    code {
-      padding: 0.25em 0.5em;
-
-      color: $color-black;
-      background: $color-pink;
-    }
-
-
-* * *
-
-![Grid Image](/assets/images/placeholder-18.jpg)
-
-You can `use inline code` and append `#full` to the end of an image URL for full width images.
-
-![Full Image](/assets/images/placeholder-18.jpg#full)
-
-* * *
+\#BringTheHeat
