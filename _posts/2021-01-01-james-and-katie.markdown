@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to RA"
-date: 2020-12-21
-description: "Who are we?"
-image: /assets/images/RA KV gif.gif
+title: "Who's James and Katie?"
+date: 2021-01-01
+description: "Who's James and Katie?"
+image: /assets/images/contact.gif
 author: James and Katie
 
 ---
