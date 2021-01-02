@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Form
-//---------------------------------------------- 
+//----------------------------------------------
 .form {
   width: 100%;
   display: flex;
@@ -42,7 +42,7 @@
     display: inline-block;
 
     .footer & {
-      @include btn-split($color-white, $color-white, 2px);
+      @include btn-split($color-alpha, $color-alpha, 2px);
     }
 
     input {
