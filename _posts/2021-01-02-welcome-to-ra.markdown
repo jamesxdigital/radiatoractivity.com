@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Radiator Activity \U0001F44B"
 date: 2021-01-02
-description: Who are we?
+description: "Welcome to Radiator Activity \U0001F44B"
 image: "/assets/images/RA KV gif.gif"
 author: James and Katie
 
