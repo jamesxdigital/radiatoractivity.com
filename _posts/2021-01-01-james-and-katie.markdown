@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Who's James and Katie?"
+title: "Who's James and Katie? \U0001F46B"
 date: 2021-01-01
-description: "Who's James and Katie?"
-image: /assets/images/contact.gif
+description: Who's James and Katie?
+image: "/assets/images/contact.gif"
 author: James and Katie
 
 ---
