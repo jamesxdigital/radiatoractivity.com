@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to RA"
+title: "Welcome to Radiator Activity \U0001F44B"
 date: 2021-01-02
-description: "Who are we?"
-image: /assets/images/RA KV gif.gif
+description: Who are we?
+image: "/assets/images/RA KV gif.gif"
 author: James and Katie
 
 ---
