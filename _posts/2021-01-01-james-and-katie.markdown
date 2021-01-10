@@ -2,25 +2,42 @@
 layout: post
 title: "Who's James and Katie? \U0001F46B"
 date: 2021-01-01
-description: Who's James and Katie?
+description: "Who's James and Katie? \U0001F46B"
 image: "/assets/images/contact.gif"
 author: James and Katie
 
 ---
-Our Radiator Activity venture started back in 2018, in Leeds whilst studying at University, with a simple question: Are you a Radiator or a Drain?
+**James (MrM)**
 
-![are you a radiator or a drain?](/assets/images/radiatorvsdrain.jpeg "Radiator vs. Drain")
+* Cofounder of Radiator Activity 💥
+* Digital enthusiast 👨‍💻
+* Snowboarder 🏂
+* Gives playing the guitar a good ol' go 🎸
 
-***
+![James - Cofounder of Radiator Activity](/assets/images/james.JPG "James - Cofounder of Radiator Activity")
 
-> "There are two types of people; radiators and drains. Radiators are warm, kind, happy and enthusiastic. They smile and are genuinely interested in others and want to make you feel good about yourself. Radiators bring out the very best in people."
+'Radiator' definition:
+
+> Radiators simply make us feel better. Radiators listen. When we are genuinely listened to we feel respected, valued and good about ourselves. It helps us to express ourselves, often to find out what we actually think or feel. Like tends to attract like so if you want more radiators in life you’ll need to hone your own radiating skills.
 >
-> <cite>Oprah Winfrey</cite>
+> <cite>James</cite>
+
+Find James at [jamesmilton.me](jamesmilton.me "James Personal Website") or [@james.jpg](https://www.instagram.com/james.jpg/ "James Instagram Page") 
 
 ***
 
-Since this fateful question, we have made a conscious effort to Radiate positivity in everything we do. We have been contemplating how best to share and promote positivity through every avenue. It is from this that we have concluded that we will be using this platform to make you smile, make you think, and provoke you to be a Radiator too!
+**Katie (KvK)**
 
-With the power of the digital world, we will be promoting brands, people, activities and our own learnings to get you active and on your way to being a Radiator.
+* Cofounder of Radiator Activity 💥
+* Photographer 📸
+* Adventurer! ✈️
 
-\#RadiatorActivity
+![Katie - Cofounder of Radiator Activity](/assets/images/katie.jpg "Katie - Cofounder of Radiator Activity")
+
+'Radiator' definition:
+
+> To me it is someone or something that is positive and lifts others up. I try to wake-up every day and say, “Today is a good day”. By starting the day like this, I let the good vibes manifest into being. Even if things don’t go as expected you can always find at least one positive in a day.
+>
+> <cite>Katie</cite>
+
+Find Katie at [katievankan.com](https://www.katievankan.com/ "Katie's personal website") or [@kvankan](https://www.instagram.com/kvankan/ "Katie's Instagram")

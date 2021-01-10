@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Radiator Activity \U0001F44B"
 date: 2021-01-02
-description: Who are we?
+description: "Welcome to Radiator Activity \U0001F44B"
 image: "/assets/images/RA KV gif.gif"
 author: James and Katie
 
@@ -13,4 +13,12 @@ Since this fateful question, we have made a conscious effort to Radiate positivi
 
 With the power of the digital world, we will be promoting brands, people, activities and our own learnings to get you active and on your way to being a Radiator.
 
-\#BringTheHeat
+***
+
+> "There are two types of people; radiators and drains. Radiators are warm, kind, happy and enthusiastic. They smile and are genuinely interested in others and want to make you feel good about yourself. Radiators bring out the very best in people."
+>
+> <cite>Oprah Winfrey</cite>
+
+***
+
+_#RadiatorActivity_
