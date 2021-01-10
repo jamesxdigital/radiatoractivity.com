@@ -13,7 +13,7 @@ Our Radiator Activity venture started back in 2018, in Leeds whilst studying at 
 
 > "There are two types of people; radiators and drains. Radiators are warm, kind, happy and enthusiastic. They smile and are genuinely interested in others and want to make you feel good about yourself. Radiators bring out the very best in people."
 >
->     <cite>Oprah Winfrey</cite>
+> <cite>Oprah Winfrey</cite>
 
 Since this fateful question, we have made a conscious effort to Radiate positivity in everything we do. We have been contemplating how best to share and promote positivity through every avenue. It is from this that we have concluded that we will be using this platform to make you smile, make you think, and provoke you to be a Radiator too!
 
