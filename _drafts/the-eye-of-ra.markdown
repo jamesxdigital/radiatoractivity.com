@@ -3,7 +3,7 @@ layout: post
 title: "☀️ The Eye of Ra ☀️"
 date: 2021-01-02
 description: "\U0001F44B Welcome to Radiator Activity \U0001F44B"
-image: "/assets/images/The Eye of Ra.gif"
+image: "/assets/images/the-eye-of-ra.gif"
 author: James and Katie
 
 ---
