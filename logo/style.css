@@ -1,3 +1,11 @@
 #logo-2 {
   visibility: hidden;
 }
+.logoSVG{
+  width: 50%;
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, 0%);
+}
