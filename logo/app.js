@@ -12,16 +12,16 @@ function hoverAnimationIn() {
     scale: 1,
     transformOrigin: "center",
     ease: "back.out(2)",
-    visibility: "visible",
+    opacity: 1,
   });
 }
 
 function hoverAnimationOut() {
-  gsap.to("#logo-2", 0.2, {
+  gsap.to("#logo-2", 0.5, {
     scale: 0,
     transformOrigin: "center",
     ease: "back.out(1)",
-    visibility: "hidden",
+    opacity: 0,
   });
   gsap.to("#logo-1", 0.5, {
     scale: 1,
@@ -37,18 +37,21 @@ function animationOnMobile() {
     transformOrigin: "center",
     ease: "back.out(2)",
   })
+    .to("#logo-2", 0, {
+      opacity: 1,
+      scale: 0,
+      transformOrigin: "center",
+    })
     .to("#logo-2", 0.5, {
       scale: 1,
       transformOrigin: "center",
       ease: "back.out(2)",
-      visibility: "visible",
     })
-    .to("#logo-2", 0.2, {
+    .to("#logo-2", 0.5, {
       delay: 5,
       scale: 0,
       transformOrigin: "center",
       ease: "back.out(1)",
-      visibility: "hidden",
     })
     .to("#logo-1", 0.5, {
       scale: 1,
