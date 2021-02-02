@@ -3,29 +3,23 @@ layout: post
 title: "\U0001F331 RA Everyday Essential \U0001F331"
 date: 2021-02-02 21:00:00 +0100
 description: "\U0001F331 RA Everyday Essential \U0001F331"
-image: "/assets/images/contact.gif"
+image: "/assets/images/heart.gif"
 author: James and Katie
 
 ---
-We are two young creatives who are determined to spread "Radiator Vibes". Being a Radiator is, of course, different for everyone, but we hope the following will help give you an insight into who we are and help you on your way to finding your start on the journey to being a Radiator.
+Throughout our day, there are some things we cannot be without. To offer some inspiration check out a few of our everyday essentials.
 
 ***
 
-**James (MrM)**
+_NO. 1_
 
-* Cofounder of Radiator Activity 💥
-* Digital enthusiast 👨‍💻
-* Snowboarder 🏂
-* Gives playing the guitar a good ol' go 🎸
+**Chilly's Bottle**
 
-![James - Cofounder of Radiator Activity](/assets/images/james.JPG "James - Cofounder of Radiator Activity")
+Reusable, reliable and refillable always at our side wherever we go. If it’s a hike, a day at the office or just lounging at home. If it’s the hottest day of the year or you’re in the middle of a snowstorm it gives you exactly what you need. Cold for 24hours or hot for 12hours.
 
+![Chilly's Bottle](/assets/images/chillies_bottle.jpg "Chilly's Bottle")
 
-> Radiators listen. Radiators create. Radiators simply make us feel better. Radiators positively influence our lives and actions. Positives attract, so if you want more radiators in life, you’ll need to hone your own radiating skills.
->
-> <cite>James</cite>
-
-Find James at [jamesmilton.me](jamesmilton.me "James Personal Website") or [@james.jpg](https://www.instagram.com/james.jpg/ "James Instagram Page")
+[chillysbottles.com](https://www.chillysbottles.com/uk "chillysbottles.com")
 
 ***
 
@@ -36,7 +30,6 @@ Find James at [jamesmilton.me](jamesmilton.me "James Personal Website") or [@jam
 * Adventurer! ✈️
 
 ![Katie - Cofounder of Radiator Activity](/assets/images/katie.jpg "Katie - Cofounder of Radiator Activity")
-
 
 > To me it is someone or something that is positive and lifts others up. I try to wake-up every day and say, “Today is a good day”. By starting the day like this, I let the good vibes manifest into being. Even if things don’t go as expected you can always find at least one positive in a day.
 >
