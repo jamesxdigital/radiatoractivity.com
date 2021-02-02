@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "\U0001F331 RA Everyday Essential \U0001F331"
+title: "\U0001F331 RA Everyday Essentials \U0001F331"
 date: 2021-02-02 21:00:00 +0100
-description: "\U0001F331 RA Everyday Essential \U0001F331"
+description: "\U0001F331 RA Everyday Essentials \U0001F331"
 image: "/assets/images/heart.gif"
 author: James and Katie
 
