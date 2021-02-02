@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "testtest"
+title: "🌱 RA Everyday Essentials 🌱"
 date: 2021-01-16 19:00:00 +0100
 description: "testtest"
-image: "/assets/images/the-eye-of-ra.gif"
+image: "🌱 RA Everyday Essentials 🌱"
 author: James and Katie
 
 ---
