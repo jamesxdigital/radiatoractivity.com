@@ -17,7 +17,7 @@ _NO. 1_
 
 ![Chilly's Bottle](/assets/images/chillies_bottle.jpg "Chilly's Bottle")
 
-[chillysbottles.com](https://www.chillysbottles.com/uk "chillysbottles.com")
+[chillysbottles.com](https://www.chillysbottles.com/uk "chillysbottles.com"){:target="_blank"}
 
 ***
 
@@ -29,7 +29,7 @@ For that extra kick in the morning or during the day, coffee is a go-to for many
 
 ![](/assets/images/mycupsproduct.jpg)
 
-[my-cups.de](https://www.my-cups.de/de "https://www.my-cups.de/de")
+[my-cups.de](https://www.my-cups.de/de "https://www.my-cups.de/de"){:target="_blank"}
 
 ***
 
@@ -41,7 +41,7 @@ Skincare is incredibly personal and individual. However, a brand that we can get
 
 ![](/assets/images/fenty_skin.jpg)
 
-[fentybeauty.com](https://www.fentybeauty.com/fentyskin-shop-all "https://www.fentybeauty.com/fentyskin-shop-all")
+[fentybeauty.com](https://www.fentybeauty.com/fentyskin-shop-all "https://www.fentybeauty.com/fentyskin-shop-all"){:target="_blank"}
 
 ***
 
@@ -53,7 +53,7 @@ LUSH, you’ve got some lush products! The easy lather shampoo and conditioner b
 
 ![](/assets/images/lush_conditioner.jpeg)
 
-[fentybeauty.com](https://www.fentybeauty.com/fentyskin-shop-all "https://www.fentybeauty.com/fentyskin-shop-all")
+[lush.com](https://lush.com/ "https://lush.com/"){:target="_blank"}
 
 ***
 
@@ -65,4 +65,4 @@ Unisex dungarees, yes please! Lucy and yak are a British brand that has sprung o
 
 ![](/assets/images/lucy_yak.jpg)
 
-[lucyandyak.com](https://lucyandyak.com/ "https://lucyandyak.com/")
+[lucyandyak.com](https://lucyandyak.com/ "https://lucyandyak.com/"){:target="_blank"}
