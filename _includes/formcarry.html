@@ -20,6 +20,8 @@
     <textarea name="message" id="form-message" rows="3"></textarea>
   </div>
 
+  <input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
+
   <div class="form__submit">
     <div class="form__btn">
       <input type="submit" value="Send">
@@ -28,3 +30,11 @@
 
   <p class="form__message"></p>
 </form>
+<script>
+  grecaptcha.ready(function() {
+    grecaptcha.execute("6Lem1VkhAAAAAMOwFEayMd2w2h1fjU36VGTw_HIs", {action: "homepage"})
+    .then(function(token) {
+      
+    });
+  });
+</script>
