@@ -8,7 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 3.9.2"
+gem "kramdown-parser-gfm"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -19,3 +20,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem "webrick", "~> 1.7"
