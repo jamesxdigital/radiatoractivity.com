@@ -1,5 +1,11 @@
-<form name="contact" id="form" class="form" data-netlify="true" method="POST">
+<form name="contact" id="form" class="form" netlify-honeypot="bot-field" data-netlify="true" method="POST">
+  <input type="hidden" name="subject" value="Sales inquiry from mysitename.netlify.app" />
   <div class="form__subcontainer">
+    <div class="hidden">
+      <label>
+        Don’t fill this out if you’re human: <input name="bot-field" />
+      </label>
+    </div>
     <div>
       <label for="form-first-name">First Name</label>
       <input type="text" name="first-name" id="form-first-name" required>
@@ -22,25 +28,9 @@
 
   <div class="form__submit">
     <div class="form__btn">
-      <button type="submit">Send</button>
+      <input type="submit" value="Send">
     </div>
   </div>
 
   <p class="form__message"></p>
-</form>
-
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="subject" value="Sales inquiry from mysitename.netlify.app" />
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
 </form>
