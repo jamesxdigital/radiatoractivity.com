@@ -55,13 +55,6 @@ const Formcarry = (() => {
               s.body.removeClass(s.closing);
             }, 800);
           },
-          error: () => {
-            setTimeout(() => {
-              s.formMessage.removeClass(s.animation);
-              s.formMessage.addClass(s.animation);
-              s.formMessage.text("Something Went Wrong");
-            }, 750);
-          },
         });
       });
     },
