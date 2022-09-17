@@ -32,29 +32,6 @@ const Formcarry = (() => {
     bindEvents() {
       this.ajax();
     },
-
-    ajax() {
-      s.form.submit((e) => {
-        e.preventDefault();
-
-        $.ajax({
-          url: s.formAction,
-          method: "POST",
-          data: s.form.serialize(),
-          dataType: "json",
-          success: () => {
-            s.body.addClass(s.closing);
-            s.body.removeClass(s.open);
-            s.html.removeClass(s.overflow);
-
-            setTimeout(() => {
-              s.form[0].reset();
-              s.body.removeClass(s.closing);
-            }, 800);
-          },
-        });
-      });
-    },
   };
 })();
 
