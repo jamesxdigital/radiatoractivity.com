@@ -34,36 +34,7 @@ const Formcarry = (() => {
     },
 
     ajax() {
-      s.form.submit((e) => {
-        $.ajax({
-          url: s.formAction,
-          method: "POST",
-          data: s.form.serialize(),
-          dataType: "json",
-          success: () => {
-            setTimeout(() => {
-              s.formMessage.removeClass(s.animation);
-              s.formMessage.addClass(s.animation);
-              s.formMessage.text("Sent");
-            }, 750);
-            s.body.addClass(s.closing);
-            s.body.removeClass(s.open);
-            s.html.removeClass(s.overflow);
-
-            setTimeout(() => {
-              s.form[0].reset();
-              s.body.removeClass(s.closing);
-            }, 800);
-          },
-          error: () => {
-            setTimeout(() => {
-              s.formMessage.removeClass(s.animation);
-              s.formMessage.addClass(s.animation);
-              s.formMessage.text("Something Went Wrong");
-            }, 750);
-          },
-        });
-      });
+      s.form.submit((e) => {});
     },
   };
 })();
