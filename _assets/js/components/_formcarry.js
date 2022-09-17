@@ -46,9 +46,6 @@ const Formcarry = (() => {
             s.body.addClass(s.closing);
             s.body.removeClass(s.open);
             s.html.removeClass(s.overflow);
-            s.formMessage.removeClass(s.animation);
-            s.formMessage.addClass(s.animation);
-            s.formMessage.text("Sent");
 
             setTimeout(() => {
               s.form[0].reset();
