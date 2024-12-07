@@ -1,79 +1,57 @@
-# Site/SEO settings
-email: james.milton@me.com
-baseurl: ""
-permalink: /:title/
+site: SAPHI Documentation
 
-name: Radiator Activity
-title: Radiator Activity
-description: >
-  Radiator Activity will initially be a space that encourages and promotes positivity across social media platforms and a website.
-url: https://radiatoractivity.com
-twitter_username:
-default_img: /assets/images/seo.jpg
-social:
-  - name: instagram
-    url: https://www.instagram.com/radiatoractivity/
-  - name: facebook
-    url: https://www.facebook.com/radiatoractivity/
+url: https://docs.saphi.engineering
+baseurl: 
 
-# Contact settings
-contact_img: /assets/images/contact.gif
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-# Disqus settings
-disqus: radiatoractivity-com
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
-# MailChimp settings
-mailchimp_action: https://radiatoractivity.us7.list-manage.com/subscribe/post-json?u=8acb9fff66150fc2c2faa329d&amp;id=743432bb4a
-mailchimp_input: b_8acb9fff66150fc2c2faa329d_743432bb4a
-
-# Author settings
-author:
-  - name: James and Katie
-    bio:
-    url: https://radiatoractivity.com
-
-# Pagination settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 12
-  permalink: "/page/:num/"
-  title: ":title"
-  limit: 0
-  sort_field: "date"
-  sort_reverse: true
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    layouts:
-      - "tag.html"
-    title: "The Barber Theme"
-    permalink: "/tag/:tag"
-    slugify:
-      mode: raw
-      cased: true
-
-# Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-loading-lazy
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - node_modules
-  - .DS_Store
-  - barber.jpg
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - package.json
-  - README.md
-  - vendor
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+  
